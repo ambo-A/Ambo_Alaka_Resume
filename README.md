@@ -1,7 +1,8 @@
 # Ambo_Alaka_Resume
 Computer Science Graduate | System Administrator | Web Developer | Institutional Website Specialist
 This repository contains the professional resume (CV) of Ambo Alaka, a Computer Science graduate with experience in system administration and web development.
-Skills
+
+##Skills
 
 HTML5, CSS3, JavaScript
 
